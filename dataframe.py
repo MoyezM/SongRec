@@ -1,5 +1,5 @@
-import psyplaylist_dfpg2
 import pandas as pd
+import psycopg2
 import numpy as np
 import constants as c
 from tqdm import tqdm
